@@ -1,16 +1,16 @@
 # Fdb version 4
-["biber /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial"] 1714036587.08997 "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bcf" "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bbl" "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial" 1714036894.68073 0
-  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bcf" 1714036894.51538 132900 556be58220c605c0c4d1ea1edbe7436a "pdflatex"
+["biber /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial"] 1714036587.08997 "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bcf" "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bbl" "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial" 1714738413.86127 0
+  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bcf" 1714738413.69222 132900 556be58220c605c0c4d1ea1edbe7436a "pdflatex"
   (generated)
   "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bbl"
   "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.blg"
   (rewritten before read)
-["pdflatex"] 1714036893.61408 "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/tutorial/tutorial.tex" "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/out/tutorial.pdf" "tutorial" 1714036894.68113 0
-  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.aux" 1714036894.51221 4190 e2c0d5c2bd5601e96bac07fb55ae3a8a "pdflatex"
-  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bbl" 1714036589.23003 466 76d65a242ec496c9b4361af646ff12cb "biber /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial"
-  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.out" 1714036894.51424 2898 ca3d0a3cba12155d63e0dc4f85e721de "pdflatex"
-  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.run.xml" 1714036894.51624 2501 43394fd86f142bb3dd5b18568c7b84e1 "pdflatex"
-  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.toc" 1714036894.51636 1706 ed04db8e26bdbd686c24044736bb3f4d "pdflatex"
+["pdflatex"] 1714738412.78522 "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/tutorial/tutorial.tex" "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/out/tutorial.pdf" "tutorial" 1714738413.86168 0
+  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.aux" 1714738413.68917 4190 e2c0d5c2bd5601e96bac07fb55ae3a8a "pdflatex"
+  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.bbl" 1714736021.90353 466 76d65a242ec496c9b4361af646ff12cb "biber /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial"
+  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.out" 1714738413.69108 2898 ca3d0a3cba12155d63e0dc4f85e721de "pdflatex"
+  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.run.xml" 1714738413.69314 2501 43394fd86f142bb3dd5b18568c7b84e1 "pdflatex"
+  "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/tutorial.toc" 1714738413.69325 1706 ed04db8e26bdbd686c24044736bb3f4d "pdflatex"
   "/Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/tutorial/tutorial.tex" 1714031633.30819 2439 4a9c41ab9c093309d22b2da533811537 ""
   "/Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map" 1714036567.63408 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "/Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0700.pk" 1714036591.24962 17380 a7f5736ace5e8e2227e57651e8ad1fad ""
@@ -154,7 +154,7 @@
   "/Users/edo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/multicol.sty" 1714036428.18427 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "/Users/edo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/url.sty" 1714036432.05504 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/Users/edo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty" 1714036432.07419 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "01_einführung.tex" 1714036891.9891 2814 b8fa0231346bab1487584fa0d4a3d101 ""
+  "01_einführung.tex" 1714036914.3378 2814 b8fa0231346bab1487584fa0d4a3d101 ""
   "02_grundlagen.tex" 1714031633.30704 3477 e4895d11e19a835128073e2fd5c84392 ""
   "03_listen.tex" 1714031633.30714 3242 e0021a187b2b2aaa986556258cd602fd ""
   "04_bilder.tex" 1714031633.30724 3874 88d4bd394e2f43144ac69ca8ae518736 ""
