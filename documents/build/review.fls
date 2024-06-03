@@ -145,10 +145,10 @@ INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/docum
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
+OUTPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.pdf
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
 OUTPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
-OUTPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.pdf
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex-apa/ngerman-apa.lbx
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex-apa/ngerman-apa.lbx
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/tex/latex/biblatex-apa/ngerman-apa.lbx
@@ -189,6 +189,9 @@ INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/pub
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm0900.tfm
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecbx0900.tfm
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecrm1440.tfm
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecbx1440.tfm
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/pdftex.map
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.aux
 INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.out
@@ -197,6 +200,10 @@ INPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/docum
 OUTPUT /Users/edo/Desktop/School documents/06-data-ethics-and-ai-PathDivine/documents/build/review.run.xml
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk
+INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm0900.pk
 INPUT /Users/edo/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx0900.pk

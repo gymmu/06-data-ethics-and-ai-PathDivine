@@ -19,7 +19,119 @@
 
 \refsection{0}
   \datalist[entry]{nyt/apasortcite//global/global/global}
-    \entry{ai-wikipedia}{misc}{}{}
+    \entry{ai-training-cw}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=339b1e0ee27729c19d8a83a99c0e3835}{%
+           family={clickworker},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{fullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{fullhashraw}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{bibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorbibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authornamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorfullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorfullhashraw}{339b1e0ee27729c19d8a83a99c0e3835}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI Training}
+      \verb{urlraw}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+      \verb{url}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+    \endentry
+    \entry{ai-res-cmm360}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=37f2c5ba15066afa8a6dba93f02fa0fa}{%
+           family={cmm360},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{fullhash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{fullhashraw}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{bibnamehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authorbibnamehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authornamehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authorfullhash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authorfullhashraw}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI Verantwortung}
+      \verb{urlraw}
+      \verb https://www.cmm360.ch/ki-und-ethik-die-verantwortung-von-unternehmen
+      \endverb
+      \verb{url}
+      \verb https://www.cmm360.ch/ki-und-ethik-die-verantwortung-von-unternehmen
+      \endverb
+    \endentry
+    \entry{ai-ethik-pure}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a50554e8f04617ec0f13d911ac1682bf}{%
+           family={purestorage},
+           familyi={p\bibinitperiod}}}%
+      }
+      \strng{namehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{fullhash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{fullhashraw}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{bibnamehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authorbibnamehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authornamehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authorfullhash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authorfullhashraw}{a50554e8f04617ec0f13d911ac1682bf}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI ethik}
+      \verb{urlraw}
+      \verb https://www.purestorage.com/de/knowledge/what-is-data-ethics.html#:~:text=Ein%20datenethisches%20Framework%20ist%20eine,Zusammenhang%20mit%20Daten%20zu%20verstehen.
+      \endverb
+      \verb{url}
+      \verb https://www.purestorage.com/de/knowledge/what-is-data-ethics.html#:~:text=Ein%20datenethisches%20Framework%20ist%20eine,Zusammenhang%20mit%20Daten%20zu%20verstehen.
+      \endverb
+    \endentry
+    \entry{ai-risk}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc4bc7494b115124784f3551ad282259}{%
+           family={PWC},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{fullhash}{cc4bc7494b115124784f3551ad282259}
+      \strng{fullhashraw}{cc4bc7494b115124784f3551ad282259}
+      \strng{bibnamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorbibnamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authornamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorfullhash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorfullhashraw}{cc4bc7494b115124784f3551ad282259}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unternehmen, Risiken}
+      \verb{urlraw}
+      \verb https://www.pwc.ch/de/insights/digital/wie-geht-ihr-unternehmen-mit-ki-um.html
+      \endverb
+      \verb{url}
+      \verb https://www.pwc.ch/de/insights/digital/wie-geht-ihr-unternehmen-mit-ki-um.html
+      \endverb
+    \endentry
+    \entry{ai-wikipedia}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
@@ -55,7 +167,119 @@
     \endentry
   \enddatalist
   \datalist[entry]{nyt/global//global/global/global}
-    \entry{ai-wikipedia}{misc}{}{}
+    \entry{ai-training-cw}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=339b1e0ee27729c19d8a83a99c0e3835}{%
+           family={clickworker},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{fullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{fullhashraw}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{bibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorbibnamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authornamehash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorfullhash}{339b1e0ee27729c19d8a83a99c0e3835}
+      \strng{authorfullhashraw}{339b1e0ee27729c19d8a83a99c0e3835}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI Training}
+      \verb{urlraw}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+      \verb{url}
+      \verb https://www.clickworker.de/kunden-blog/kuenstliche-intelligenz-systeme-trainieren/
+      \endverb
+    \endentry
+    \entry{ai-res-cmm360}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=37f2c5ba15066afa8a6dba93f02fa0fa}{%
+           family={cmm360},
+           familyi={c\bibinitperiod}}}%
+      }
+      \strng{namehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{fullhash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{fullhashraw}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{bibnamehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authorbibnamehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authornamehash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authorfullhash}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \strng{authorfullhashraw}{37f2c5ba15066afa8a6dba93f02fa0fa}
+      \field{sortinit}{c}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI Verantwortung}
+      \verb{urlraw}
+      \verb https://www.cmm360.ch/ki-und-ethik-die-verantwortung-von-unternehmen
+      \endverb
+      \verb{url}
+      \verb https://www.cmm360.ch/ki-und-ethik-die-verantwortung-von-unternehmen
+      \endverb
+    \endentry
+    \entry{ai-ethik-pure}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a50554e8f04617ec0f13d911ac1682bf}{%
+           family={purestorage},
+           familyi={p\bibinitperiod}}}%
+      }
+      \strng{namehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{fullhash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{fullhashraw}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{bibnamehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authorbibnamehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authornamehash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authorfullhash}{a50554e8f04617ec0f13d911ac1682bf}
+      \strng{authorfullhashraw}{a50554e8f04617ec0f13d911ac1682bf}
+      \field{sortinit}{p}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{KI ethik}
+      \verb{urlraw}
+      \verb https://www.purestorage.com/de/knowledge/what-is-data-ethics.html#:~:text=Ein%20datenethisches%20Framework%20ist%20eine,Zusammenhang%20mit%20Daten%20zu%20verstehen.
+      \endverb
+      \verb{url}
+      \verb https://www.purestorage.com/de/knowledge/what-is-data-ethics.html#:~:text=Ein%20datenethisches%20Framework%20ist%20eine,Zusammenhang%20mit%20Daten%20zu%20verstehen.
+      \endverb
+    \endentry
+    \entry{ai-risk}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=cc4bc7494b115124784f3551ad282259}{%
+           family={PWC},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{fullhash}{cc4bc7494b115124784f3551ad282259}
+      \strng{fullhashraw}{cc4bc7494b115124784f3551ad282259}
+      \strng{bibnamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorbibnamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authornamehash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorfullhash}{cc4bc7494b115124784f3551ad282259}
+      \strng{authorfullhashraw}{cc4bc7494b115124784f3551ad282259}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unternehmen, Risiken}
+      \verb{urlraw}
+      \verb https://www.pwc.ch/de/insights/digital/wie-geht-ihr-unternehmen-mit-ki-um.html
+      \endverb
+      \verb{url}
+      \verb https://www.pwc.ch/de/insights/digital/wie-geht-ihr-unternehmen-mit-ki-um.html
+      \endverb
+    \endentry
+    \entry{ai-wikipedia}{online}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
            family={Wikipedia},
