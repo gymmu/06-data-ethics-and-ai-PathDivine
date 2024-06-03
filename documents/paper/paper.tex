@@ -6,6 +6,9 @@
 \usepackage{hyperref}
 \usepackage{csquotes}
 \usepackage[a4paper]{geometry}
+\usepackage{graphicx}
+
+
 
 \usepackage[
     backend=biber,
@@ -25,7 +28,7 @@
 
 
 \title{Ethik im Umgang mit Daten}
-\author{Name des Autors}
+\author{Eduard Gabrielyan}
 \date{\today}
 
 
@@ -34,24 +37,58 @@
 \maketitle
 
 \abstract{
-    Dies ist eine Vorlage für eine Maturarbeit in der Informatik am Gymnasium Muttenz. Sie dient dazu, die Arbeit schnell und einfach zu starten und sollte einen guten Überblick über die Arbeit bieten.
+    In diesem Dokument wird grob erklärt wie KI funktioniert, was die Gefahren von KI sind, wie KI trainiert wird und es wird Bezug genommen auf das Thema:
+    \newline
+    \newline
+    \textbf{Wie können Unternehmen ethisch korrekt mit durch KI generierten Daten umgehen?}
 }
 
 \tableofcontents
 
 \chapter{Einleitung}
 
-Hier kommt die Einführung. Der Text hier sollte eigentlich noch viel länger sein, so das hier nicht so merkwürdige Umbrüche entstehen.
+\includegraphics[width=0.4\textwidth]{KI.jpeg} 
 
-Ich kann weitere Kapitel auch importieren.
+\section{Was ist KI?}
+KI (künstliche Intelligenz) auch Artificial Intelligence AI (English) ist ein sehr wichtiger Teil unserer Gesellschaft geworden.
+KI ist Teil der Informatik und beschäftigt sich mit maschinellem Lernen.\citep{ai-wikipedia}.
+\newline
+Künstliche Intelligenz ist wie ein schlauer Computer, der durch Lernen klüger wird. Maschinelles Lernen ist sehr wichtig geworden, da es viele Daten und starke Computer gibt. Dabei lernt der Computer selbst, indem er die Daten anschaut wie Roboter, die lernen Dinge zu greifen und zu bewegen. \citep{ai-fh}
+\section{Wie wird KI traniert?}
+Die Ausbildung einer KI passiert in drei Schritten. Erst bekommt ein Computerprogramm Daten, um vorherzugeben und die Genauigkeit zu überprüfen. Danach wird die Leistung des Programms mit neuen Daten getestet. Es gibt zwei Hauptmethoden beim KI-Training: Beim überwachten Lernen gibt es markierte Eingabe- und Ausgabedaten, beim nicht überwachten Lernen gibt es diese Markierungen eben nicht.
+\citep{ai-training-cw}
+
+\subsection{Was ist Deep Learning?}
+Deep Learning ist ein anstrengender Prozess für den Computer, der viel Rechenleistung braucht und auf einem sehr geschichteten Netzwerk von tiefen neuronalen Pfaden basiert. Jedes Neuron im Netzwerk macht komplexe Muster und Verbindungen durch mathematische Funktionen, die mit Daten gefüttert werden. Deep Learning ist eine Technik des maschinellen Lernens, die es erlaubt Daten zu analysieren und bessere Vorhersagen zu machen.
+\citep{ai-training-cw}
+
+\subsection{Was ist maschinelles lernen?}
+Maschinelles Lernen ist ein Bereich der KI dass Algorithmen nutzt, um Verbindungen zwischen Variablen zu finden und daraus zu lernen. Mit grossen Datenmengen und viel Rechenleistung können Maschinen Aufgaben selbstständig erlernen und sich verbessern, ähnlich wie Kinder durch Erfahrung lernen. Anders als bei traditionellen Algorithmen folgt maschinelles Lernen keinem vorgegebenen Lösungsweg, sondern die Maschine orientiert sich an einem bestimmten Qualitätskriterium und den Informationen in den Daten. 
+\citep{ai-training-cw}
+\newline
+\newline
+Abbildung von \citep{ai-training-cw}
+
+\includegraphics[width=0.5\textwidth]{Training.png}
+
+\section{Gefahren von KI}
+Dabei entsteht bei vielen Menschen, die Frage ob KI gefährlich ist. Eigentlich ist Ki selber nicht gefährlich. Die Gefahr kommt vom Missbrauch der Menschen. Wenn wir KI richtig einsetzen und Regeln dafür festlegen, kann sie sehr nützlich sein. Wenn nicht dann gibt es natürlich Gefahren.
+\citep{ai-wikipedia}
+
 
 \input{chap_methode.tex}
 
-\section{Etwas mit Quellen}
+\chapter{Fazit}
 
-Etwas mit Änderung hier am Ende.
-
-Wenn ich eine Quelle zitieren möchte, kann ich das ganze einfach am Ende des Satzes machen \citep{example}. Oder wie \citet{example} sagt, auch mitten im Text.
+Allgemein haben wir Bezug darauf genommen, wie Unternehmen richtig mit Daten umgehen sollten, die von KI erstellt wurden. Im Allgemeinen müssen Firmen sicherstellen, dass ihre KI-Systeme sicher und durchsichtig sind und dass sie die Daten der Kunden gut schützen.
+\newline
+\newline
+Unternehmen sollten über den richtigen Umgang mit Daten ihre Mitarbeiter und Partner informieren und moderne Methoden des Datenschutzes verwenden. Sie müssen klar sagen, wie sie Daten sammeln und nutzen und die Kunden darüber informieren ob sie mit einer KI oder einem echten Menschen sprechen.
+\newline
+Es ist wichtig für Unternehmen moralische Aspekte der Datennutzung zu beachten und sicherzustellen dass Kundenrechte geschützt werden. Sie müssen auch auf Risiken achten, die mit der Benutzung von KI gehen zusammen sowie finden das Gleichgewicht zwischen schneller Arbeit und dem Vertrauen.
+\newline
+\newline
+Abschließend bedürfen künstliche Intelligenz Technologien eines verantwortlichen Umgangs mit den daraus entstandenen Informationen, um das Vertrauen der Benutzer zu gewinnen unf sichere Speicherungsmöglichkeiten zu gewährleisten.
 
 \printbibliography
 
